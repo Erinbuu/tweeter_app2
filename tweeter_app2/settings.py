@@ -41,7 +41,7 @@ INSTALLED_APPS = [
 
 
     'bootstrap4',
-    'bootstrap_datepicker_plus'
+    'bootstrap_datepicker_plus',
     'users',
     'tweets',
 ]
